@@ -25,7 +25,7 @@
 <details open>
     <summary><h2>🧑🏻 About Me</h2></summary>
     <ul>
-    <li> 👨🏻‍🎓 I am currently an Information Technology Student. </li>
+    <li> 👨🏻‍🎓 I am currently a 4th year Information Technology Student. </li>
     <li> 📆 My goal for this year is to learn more about <a href="https://react.dev/">React.</a> </li>
     <li> 🤖 I believe AI must be used as a tool, not as something to do the work itself. </li>
     </ul>
